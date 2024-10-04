@@ -52,6 +52,9 @@
 13. [Master calculus 1 using Python: derivatives and applications](https://www.udemy.com/course/pycalc1_x/?couponCode=KEEPLEARNING)
 14. [5 Python Projects ที่น่าสนใจสำหรับ Developers](https://www.techstarthailand.com/blog/detail/5-Awesome-Python-Projects-Make-Deep-Fakes-Compose-Videos-And-Develop-Frontends/2648)
 15. [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+16. [Complexity Analysis](https://microsoft.github.io/pybryt/html/complexity.html)
+17. [Teaching Python programming with automatic assessment and feedback provision](https://www.semanticscholar.org/paper/Teaching-Python-programming-with-automatic-and-Fangohr-O'Brien/ac55a01dee1f963d7388508a33ccbd8d48a50b7d)
+
 
 
 ## Python Library
