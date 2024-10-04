@@ -17,6 +17,10 @@
 15. [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 16. [Automated Software Testing with Python](https://www.udemy.com/course/automated-software-testing-with-python/?couponCode=LETSLEARNNOWPP)
 
+## ตัวอย่างโครงงาน 
+1. [Project 01: Connect 4](https://www3.nd.edu/~pbui/teaching/cdt.30010.fa16/project01.html)
+2. [Print Pattern](https://www.facebook.com/groups/astCode/permalink/831995414365147/)
+3. [OOP Micro Project Topics](https://medium.com/@G_Kumar/oop-micro-project-topics-c3c9df32ea51)
 
 
 
