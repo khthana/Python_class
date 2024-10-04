@@ -31,6 +31,7 @@
 6. [ดึงข้อมูล ตลาดหลักทรัพย์ (Set) ด้วย Web scraping](https://medium.com/@solaris.burning.1/%E0%B8%94%E0%B8%B6%E0%B8%87%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5-%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C-set-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-web-scraping-bc5e08973c59)
 7. [Automate with Python – Full Course for Beginners](https://www.youtube.com/watch?v=PXMJ6FS7llk)
 8. [10 Python Automation Scripts ช่วยให้คุณทำงานสะดวกขึ้น](https://www.techstarthailand.com/blog/detail/10-Python-Automation-Scripts-for-Your-Daily-Problems/2219)
+9. [สร้าง Indicator ด้วย Python ที่เทรดเดอร์ต้องรู้](https://www.facebook.com/investicbkk/posts/pfbid0XEzPyRdyPWAdru9k78b1h12R1hkF2eHx32g5byZf9H9p4D91hRiKVWeGYV3uUqEtl)
 
 ## Python Quiz 
 1. [70+ Python Quizzes](https://pythongeeks.org/python-quiz-test/)
@@ -41,6 +42,29 @@
 3. [แหล่งความรู้ Python](https://www.facebook.com/groups/udemythai/permalink/1863425253820589/)
 4. [Django-Styleguide ](https://github.com/HackSoftware/Django-Styleguide)
 5. [ช่องโปรแกรมมิ่งสอน Python](https://www.facebook.com/stackpython/posts/pfbid0rXdU3MPUgADZvYR6hv9GAwWasYuBUsEXTrKkFjtGiKN3pRFP9Pq4wLdkN4iSnc1nl)
+6. [เขียนสามเหลี่ยมได้กี่แบบ](https://www.facebook.com/photo/?fbid=398679407419486&set=pcb.398680174086076)
+7. [6 Algorithms พื้นฐาน ที่ Developer ควรรู้จักไว้](https://www.techstarthailand.com/blog/detail/6-Algorithms-Every-Developer-Should-Know/1983)
+8. [เขียน Code ให้ Clean ขึ้น ด้วยเทคนิค Clean Code จากลุง Robert C. Martin](https://medium.com/linedevth/%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-code-%E0%B9%83%E0%B8%AB%E0%B9%89-clean-%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%99%E0%B8%B4%E0%B8%84-clean-code-%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B8%87-robert-c-martin-4bbe39be4695)
+
+
+## Python Library
+1. [Python Library ที่ช่วยสร้าง Charts แบบ Animation](https://www.facebook.com/groups/msdevth/permalink/5202896363166641/)
+2. [Fast HTTP server](https://github.com/squeaky-pl/japronto)
+3. [FastAPI - สร้าง Python API](https://www.youtube.com/watch?v=n7PbqVdnybw)
+4. [Python Web Scraping 2021 ด้วย BeautifulSoup](https://www.youtube.com/watch?v=OjUQ5nw5O3I)
+5. [15 Python Libraries You Should Know About](https://www.youtube.com/watch?v=o06MyVhYte4)
+6. [Python for Programmers book](https://github.com/pdeitel/PythonForProgrammers)
+7. [low-code machine learning library in Python](https://github.com/pycaret/pycaret?source=post_page-----6515070a8319--------------------------------)
+8. [multiplayer_game_backend](https://github.com/koralturkk/multiplayer_game_backend)
+9. [FastAPI](https://www.facebook.com/stackpython/posts/pfbid0K9RaqVDmYJwmitwBJVjpADAPy1erFkWacdgYmNrgFxYEW46VFuis8Nq6Q6rrphvMl)
+10. [วิธีการทำแคลคูลัสด้วย Python?](https://www.geeksforgeeks.org/how-to-do-calculus-with-python/)
+11. [Python Tkinter GUI Design Using ttkbootstrap](https://www.youtube.com/watch?v=0tM-l_ZsxjU)
+12. [สร้าง API ความเร็วสูงด้วย FastAPI (Python) + Docker Compose](https://devhub.in.th/blog/fastapi-docker-compose?fbclid=IwAR3vz25jecqmvcaAgbDDt37QBNZ27dvjVnshQ_I4WDBEzRDY1LCTjELKu-w)
+13. [7 Python Libraries น่าสนใจที่ได้รับความนิยมบน GitHub](https://www.techstarthailand.com/blog/detail/7-Most-Starred-Python-Library-You-Should-Know/2286)
+
+
+
+
 
 
 
