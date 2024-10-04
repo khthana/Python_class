@@ -45,6 +45,13 @@
 6. [เขียนสามเหลี่ยมได้กี่แบบ](https://www.facebook.com/photo/?fbid=398679407419486&set=pcb.398680174086076)
 7. [6 Algorithms พื้นฐาน ที่ Developer ควรรู้จักไว้](https://www.techstarthailand.com/blog/detail/6-Algorithms-Every-Developer-Should-Know/1983)
 8. [เขียน Code ให้ Clean ขึ้น ด้วยเทคนิค Clean Code จากลุง Robert C. Martin](https://medium.com/linedevth/%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-code-%E0%B9%83%E0%B8%AB%E0%B9%89-clean-%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%99%E0%B8%B4%E0%B8%84-clean-code-%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B8%87-robert-c-martin-4bbe39be4695)
+9. [decode exe ไฟล์ที่สร้างมาจาก pyinstaller](https://www.facebook.com/comdet/posts/pfbid0Yae19XFjTXA7WD7yXNfdndHyBzRBArbRKppz4mtPwvJau8jTnFpjr1ocsriNjLLkl)
+10. [Build Microservices with Python](https://blog.devgenius.io/build-microservices-with-python-63fd35fa3baa)
+11. [Lambda Calculus ~ พื้นฐานสู่ Functional Programming](https://www.tamemo.com/post/153/lambda-calculus/)
+12. [Python Math](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Tutorial%20Series/math1.ipynb)
+13. [Master calculus 1 using Python: derivatives and applications](https://www.udemy.com/course/pycalc1_x/?couponCode=KEEPLEARNING)
+14. [5 Python Projects ที่น่าสนใจสำหรับ Developers](https://www.techstarthailand.com/blog/detail/5-Awesome-Python-Projects-Make-Deep-Fakes-Compose-Videos-And-Develop-Frontends/2648)
+15. [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 
 
 ## Python Library
@@ -61,6 +68,9 @@
 11. [Python Tkinter GUI Design Using ttkbootstrap](https://www.youtube.com/watch?v=0tM-l_ZsxjU)
 12. [สร้าง API ความเร็วสูงด้วย FastAPI (Python) + Docker Compose](https://devhub.in.th/blog/fastapi-docker-compose?fbclid=IwAR3vz25jecqmvcaAgbDDt37QBNZ27dvjVnshQ_I4WDBEzRDY1LCTjELKu-w)
 13. [7 Python Libraries น่าสนใจที่ได้รับความนิยมบน GitHub](https://www.techstarthailand.com/blog/detail/7-Most-Starred-Python-Library-You-Should-Know/2286)
+14. [pyroad](https://github.com/amaargiru/pyroad)
+15. [7 Python Libraries ที่คุณสามารถนำไปใช้ใน Project ถัดไปได้](https://www.techstarthailand.com/blog/detail/7-Useful-Python-Libraries-You-Should-Use-in-Your-Next-Project/2705)
+
 
 
 
